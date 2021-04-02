@@ -6,15 +6,16 @@ Mi primera prueba con GitHub
 * Elizabeth **Olsen**
 
 ## Contenido/Descripción
+Esto es una prueba del README
 
 | Email | Autor |
 |-------|-------|
-| 2012028@ucc.edu.ar | Julieta |
-| 1602989@ucc.edu.ar | Elizabeth |
+|2012028@ucc.edu.ar|Julieta|
+|1602989@ucc.edu.ar|Elizabeth|
 
 :octocat:
 
 :+1:
 :sparkles:
 
-Link del proyecto: [Aula virtual de Lab Compu 2] (https://campusvirtual.ucc.edu.ar/course/view.php?id=4429)
+Link del proyecto: [Aula virtual de Lab Compu 2](https://campusvirtual.ucc.edu.ar/course/view.php?id=4429)
